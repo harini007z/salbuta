@@ -1,0 +1,3 @@
+"use strict";
+
+var layout_gadgets_layout_explain = "\n<div class=\"content layout_gadgets_layout_explain\">\n\t<p class=\"uk-text-meta uk-margin-remove uk-flex uk-flex-middle\">Layout Gadgets <span uk-icon=\"chevron-double-right\"></span></p>\n\t<h1>Layout Explain</h1>\n\t<ol>\n\t\t<li>On Blogger dashboard click <span class=\"dash-icon layout\"></span></li>\n\t\t<li>This is the layout of the demo theme. You can edit it any of these widgets\n\t\t\t<br><p><img src=\"assets/img/layout.png\" alt=\"image\"></p>\n\t\t</li>\n\t</ol>\n</div>";

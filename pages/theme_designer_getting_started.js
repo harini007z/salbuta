@@ -1,0 +1,3 @@
+"use strict";
+
+var theme_designer_getting_started = "\n<div class=\"content theme_designer_getting_started\">\n\t<p class=\"uk-text-meta uk-margin-remove uk-flex uk-flex-middle\">Theme Designer <span uk-icon=\"chevron-double-right\"></span></p>\n\t<h1>Getting Started</h1>\n\t<p><img src=\"assets/img/theme_designer_getting_started.png\" alt=\"image\"></p>\t\t\t\n\t<ol>\n\t\t<li>On Blogger dashboard click <span class=\"dash-icon theme\"></span></li>\n\t\t<li>Click <span class=\"dash-btn orange\">Customize</span>\n\t\t\t<p><img src=\"assets/img/dashboard/installation-backup.png\" alt=\"image\"></p>\n\t\t</li>\n\t</ol>\n</div>";

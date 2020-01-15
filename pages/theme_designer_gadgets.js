@@ -1,0 +1,3 @@
+"use strict";
+
+var theme_designer_gadgets = "\n<div class=\"content theme_designer_gadgets\">\n\t<p class=\"uk-text-meta uk-margin-remove uk-flex uk-flex-middle\">Theme Designer <span uk-icon=\"chevron-double-right\"></span></p>\n\t<h1>Gadgets</h1>\n\t<p><img src=\"assets/img/theme_designer_gadgets.png\" alt=\"image\"></p>\t\t\t\n\t<ol>\n\t\t<li>You can show or hide any gadget inside your blog using a small check box</li>\n\t\t<li>Also, you can edit each gadget content by clicking on <span class=\"dash-btn-config\">Configure</span></li>\n\t\t<li>After Editing don't forget to click <span class=\"dash-btn orange\">Apply to Blog</span></li>\n\t</ol>\n</div>";
